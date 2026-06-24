@@ -1,0 +1,12 @@
+table {
+    border: solid 1px;
+    border-collapse: collapse;
+    text-align: center;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+th, td {
+    border: 1px solid rgb(128, 11, 128);
+    padding: 10px;
+}
