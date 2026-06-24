@@ -1,0 +1,11 @@
+table {
+    border: solid 1px orangered;
+    text-align: center;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+th, td {
+    border: 1px solid orangered;
+    padding: 10px;
+}
