@@ -1,6 +1,5 @@
 table {
-    border: solid 1px;
-    border-collapse: collapse;
+    border: solid 1px rgb(128, 11, 128);
     text-align: center;
 }
 h2{
